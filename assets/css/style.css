@@ -62,13 +62,13 @@ p {
 .float-left {
   float: left;
   margin-right: 25px;
-  max-height: 200px;
+  
 }
 
 .float-right {
   float: right;
   margin-left: 25px;
-  max-height: 200px;
+  
 }
 
 .content {
