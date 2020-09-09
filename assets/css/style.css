@@ -111,16 +111,8 @@ p {
 }
 
 .search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-#online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -134,7 +126,7 @@ p {
 .social-media-marketing img {
   max-height: 200px;
 }
-
+/* reorganized headings to follow sequential order */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -149,7 +141,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
+/* footer is h2 and is not in squential order, left it to follow html structur */
 .footer h2 {
   font-size: 20px;
 }
