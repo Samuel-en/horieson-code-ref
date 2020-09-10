@@ -28,7 +28,7 @@ I was tasked with refactoring the Horiseon webpage. After observing the code i q
 
 ### Picture of Webpage 
 
-<link href="assets/images/Webpage screen shot.png">
+![Deployed image of webpage](assets/images/Webpage screen shot.jpg)
 
 
 ### MIT License
