@@ -27,8 +27,9 @@ I was tasked with refactoring the Horiseon webpage. After observing the code i q
     *  (#) was changed to (.) in the css to reflect change in html 
 
 ### Picture of Webpage 
+s
+![Deployed image of webpage](assets/images/webpage.png)
 
-![Deployed image of webpage](assets/images/Webpage screen shot.jpg)
 
 
 ### MIT License
